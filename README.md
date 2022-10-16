@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KevIron
 - 👀 I’m interested in computers and programming.
-- 🌱 I’m currently learning about game development in unreal engine using C++ and Java Development.
-- 💞️ I’m looking to collaborate on some games projects.
-     If you want J can help you witch your game projects totally for free, to get some new programming experience.
+- 🌱 I’m currently learning about full stack web development.
+- 💞️ I’m looking to collaborate on some website projects.
+     If you want J can help you witch your website projects totally for free, to get some new programming experience.
 - 📫 How to reach me:
      If you want you can send me a message. My contact e-mail is marcelkaluzny123@gmail.com
 
